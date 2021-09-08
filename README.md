@@ -1,4 +1,4 @@
-# POWeeklyCoding
+# PO Weekly Coding Challenges
 Completion of Weekly Coding Challenges
 
 ## 09/08/2021
