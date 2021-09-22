@@ -9,5 +9,5 @@ Write an SQL Script to Seed Sample Data (attached below) and answer the below qu
   4. Write an SQL query to determine the 5th highest salary without using TOP or limit method. | [Solution](https://github.com/ajang06/POWeeklyCoding/blob/d2d9d6df03b8eefdb66c10e65bf64fa6ba2d3c99/Week1/4.sql)
 
 ## 09/13/2021
-  1. Write a program to encrypt a message using the ROT13 technique.
-  2. Write a program to convert a decimal number to its octal equivalent. 
+  1. Write a program to encrypt a message using the ROT13 technique. | [Solution](https://github.com/ajang06/POWeeklyCoding/blob/main/Week2/src/main/java/solutions/ROT13Technique.java)
+  2. Write a program to convert a decimal number to its octal equivalent. | [Solution](https://github.com/ajang06/POWeeklyCoding/blob/main/Week2/src/main/java/solutions/DecimalToOctal.java)
